@@ -4,6 +4,7 @@
 Hey there! I'm İsa Demir, currently studying Management Information Systems at Atatürk University.<br><br>I'm passionate about front-end development and constantly striving to become a skilled professional in this field. Currently, I have experience in fundamental web technologies such as HTML, CSS, and Bootstrap. I'm also in the process of learning JavaScript. I engage in research and keep up with the latest innovations to continuously enhance my skills.<br><br>My career goal is to gain more knowledge and expertise in front-end development, stay up-to-date with modern web trends, and create user-friendly and impressive web experiences. Some of my standout qualities include analytical thinking, problem-solving skills, and strong communication abilities.<br><br>I closely follow technological advancements and place great importance on staying up-to-date with web design and user experience topics. With a creative and collaborative approach, I am confident in successfully completing projects by working in teams.<br><br>Feel free to connect with me on LinkedIn for networking, collaboration, or exchanging knowledge. I'm eagerly looking forward to exciting opportunities and projects!
 
 
+
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/isaddemir) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/isa-demir-176a00163/) 
 
